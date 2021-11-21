@@ -1,9 +1,11 @@
 {
+  "homepage": "http://vighnesh777.github.io/Impact-analytics",
   "browser": {
     "fs": false,
     "path": false,
     "os": false
   },
+  
   "name": "impact-analytics",
   "version": "0.1.0",
   "private": true,
