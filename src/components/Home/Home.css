@@ -1,0 +1,55 @@
+
+.user-card-container{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    padding: 44px;
+    align-self: center;
+    justify-content: center;
+
+}
+.heading{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-self: center;
+   
+}
+.button-nav
+{
+    display: flex;
+    justify-content: flex-end;
+    flex-direction: row;
+}
+.Shortlisted,.Rejected
+{
+    margin-right: 30px;
+}
+.Link1{
+    background-color:transparent; /* Green */
+    border: 2px solid green;
+    color: green;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 26px;
+}
+.Link1:hover{
+background-color: green;
+color: white;
+}
+.Link2{
+    background-color:transparent; /* Green */
+    border: 2px solid red;
+    color: red;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 26px;
+}
+.Link2:hover{
+    background-color: red;
+    color: white;
+    }
